@@ -1,3 +1,3 @@
-# PUI2016_cjs676
-Homework repository
-# PUI2016_2016
+
+###### Homework 1 repository
+
